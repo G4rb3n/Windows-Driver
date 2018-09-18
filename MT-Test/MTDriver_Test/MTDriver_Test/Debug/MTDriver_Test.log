@@ -1,0 +1,23 @@
+﻿  Building 'MTDriver_Test' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\MTDriver_Test.inf
+  Stamping [Version] section with DriverVer=09/11/2018,14.56.25.685
+  main.c
+c:\users\g4rb3n\source\repos\mtdriver_test\mtdriver_test\main.c(4): warning C4100: “Driver”: 未引用的形参
+  MTDriver_Test.vcxproj -> C:\Users\G4rb3n\source\repos\MTDriver_Test\Debug\MTDriver_Test.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_Test\Debug\MTDriver_Test.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\G4rb3n\source\repos\MTDriver_Test\Debug\MTDriver_Test\mtdriver_test.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_Test\Debug\MTDriver_Test\mtdriver_test.cat
+  

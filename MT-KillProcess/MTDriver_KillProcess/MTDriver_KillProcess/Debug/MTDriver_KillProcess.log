@@ -1,0 +1,29 @@
+﻿  Building 'MTDriver_KillProcess' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\MTDriver_KillProcess.inf
+  Stamping [Version] section with DriverVer=09/18/2018,20.20.9.275
+  mian.c
+c:\users\g4rb3n\source\repos\mtdriver_killprocess\mtdriver_killprocess\mian.c(13): warning C4100: “Driver”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_killprocess\mtdriver_killprocess\mian.c(15): warning C4101: “status”: 未引用的局部变量
+c:\users\g4rb3n\source\repos\mtdriver_killprocess\mtdriver_killprocess\mian.c(25): warning C4100: “Device”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_killprocess\mtdriver_killprocess\mian.c(57): warning C4100: “Device”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_killprocess\mtdriver_killprocess\mian.c(115): warning C4047: “函数”:“BOOLEAN”与“void *”的间接级别不同
+c:\users\g4rb3n\source\repos\mtdriver_killprocess\mtdriver_killprocess\mian.c(115): warning C4024: “IoCreateDevice”: 形参和实参 6 的类型不同
+c:\users\g4rb3n\source\repos\mtdriver_killprocess\mtdriver_killprocess\mian.c(99): warning C4100: “RegPath”: 未引用的形参
+  MTDriver_KillProcess.vcxproj -> C:\Users\G4rb3n\source\repos\MTDriver_KillProcess\Debug\MTDriver_KillProcess.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_KillProcess\Debug\MTDriver_KillProcess.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\G4rb3n\source\repos\MTDriver_KillProcess\Debug\MTDriver_KillProcess\mtdriver_killprocess.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_KillProcess\Debug\MTDriver_KillProcess\mtdriver_killprocess.cat
+  

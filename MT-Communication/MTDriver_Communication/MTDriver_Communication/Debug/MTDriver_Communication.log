@@ -1,0 +1,30 @@
+﻿  Building 'MTDriver_Communication' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\MTDriver_Communication.inf
+  Stamping [Version] section with DriverVer=09/17/2018,8.49.52.322
+  main.c
+c:\users\g4rb3n\source\repos\mtdriver_communication\mtdriver_communication\main.c(12): warning C4100: “Device”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_communication\mtdriver_communication\main.c(23): warning C4100: “Device”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_communication\mtdriver_communication\main.c(39): warning C4100: “Device”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_communication\mtdriver_communication\main.c(50): warning C4100: “Driver”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_communication\mtdriver_communication\main.c(52): warning C4101: “status”: 未引用的局部变量
+c:\users\g4rb3n\source\repos\mtdriver_communication\mtdriver_communication\main.c(74): warning C4047: “函数”:“BOOLEAN”与“void *”的间接级别不同
+c:\users\g4rb3n\source\repos\mtdriver_communication\mtdriver_communication\main.c(74): warning C4024: “IoCreateDevice”: 形参和实参 6 的类型不同
+c:\users\g4rb3n\source\repos\mtdriver_communication\mtdriver_communication\main.c(61): warning C4100: “RegPath”: 未引用的形参
+  MTDriver_Communication.vcxproj -> C:\Users\G4rb3n\source\repos\MTDriver_Communication\Debug\MTDriver_Communication.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_Communication\Debug\MTDriver_Communication.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\G4rb3n\source\repos\MTDriver_Communication\Debug\MTDriver_Communication\mtdriver_communication.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_Communication\Debug\MTDriver_Communication\mtdriver_communication.cat
+  
