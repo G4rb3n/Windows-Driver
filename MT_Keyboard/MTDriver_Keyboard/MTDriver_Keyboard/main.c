@@ -264,7 +264,7 @@ NTSTATUS AttachDevice(PDRIVER_OBJECT pDriver, PUNICODE_STRING RegPatch)
 
 
 // 驱动入口函数
-NTSTATUS DriverEntry(PDRIVER_OBJECT pDriver, PUNICODE_STRING RegPatch)
+NTSTATUS DriverEntry(PDRIVER_OBJECT pDriver, PUNICODE_STRING RegPath)
 {
 	ULONG i;
 	NTSTATUS status = STATUS_SUCCESS;
@@ -280,7 +280,7 @@ NTSTATUS DriverEntry(PDRIVER_OBJECT pDriver, PUNICODE_STRING RegPatch)
 	pDriver->MajorFunction[IRP_MJ_POWER] = PowerDispatch;	// 注册电源IRP分发函数
 	pDriver->MajorFunction[IRP_MJ_PNP] = PnPDispatch;		// 注册即插即用IRP分发函数
 
-	AttachDevice(pDriver, RegPatch);						// 绑定设备
+	AttachDevice(pDriver, RegPath);						// 绑定设备
 
 	return status;
 }

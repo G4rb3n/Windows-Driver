@@ -1,10 +1,10 @@
 ﻿  Building 'MTDriver_Keyboard' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
   Stamping Debug\MTDriver_Keyboard.inf
-  Stamping [Version] section with DriverVer=10/20/2018,15.35.0.991
+  Stamping [Version] section with DriverVer=11/21/2018,10.14.27.742
   main.c
-  MTDriver_Keyboard.vcxproj -> C:\Users\G4rb3n\source\repos\MTDriver_Keyboard\Debug\MTDriver_Keyboard.sys
+  MTDriver_Keyboard.vcxproj -> C:\Users\G4rb3n\Desktop\Windows-Driver\MT_Keyboard\MTDriver_Keyboard\Debug\MTDriver_Keyboard.sys
   Done Adding Additional Store
-  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_Keyboard\Debug\MTDriver_Keyboard.sys
+  Successfully signed: C:\Users\G4rb3n\Desktop\Windows-Driver\MT_Keyboard\MTDriver_Keyboard\Debug\MTDriver_Keyboard.sys
   
   ........................
   Signability test complete.
@@ -16,7 +16,7 @@
   None
   
   Catalog generation complete.
-  C:\Users\G4rb3n\source\repos\MTDriver_Keyboard\Debug\MTDriver_Keyboard\mtdriver_keyboard.cat
+  C:\Users\G4rb3n\Desktop\Windows-Driver\MT_Keyboard\MTDriver_Keyboard\Debug\MTDriver_Keyboard\mtdriver_keyboard.cat
   Done Adding Additional Store
-  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_Keyboard\Debug\MTDriver_Keyboard\mtdriver_keyboard.cat
+  Successfully signed: C:\Users\G4rb3n\Desktop\Windows-Driver\MT_Keyboard\MTDriver_Keyboard\Debug\MTDriver_Keyboard\mtdriver_keyboard.cat
   

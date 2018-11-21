@@ -1,0 +1,24 @@
+﻿  Building 'MTDriver_FSDHook' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\MTDriver_FSDHook.inf
+  Stamping [Version] section with DriverVer=11/21/2018,11.48.58.586
+  main.c
+c:\users\g4rb3n\source\repos\mtdriver_fsdhook\mtdriver_fsdhook\main.c(25): warning C4100: “pDriver”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_fsdhook\mtdriver_fsdhook\main.c(46): warning C4100: “RegPath”: 未引用的形参
+  MTDriver_FSDHook.vcxproj -> C:\Users\G4rb3n\source\repos\MTDriver_FSDHook\Debug\MTDriver_FSDHook.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_FSDHook\Debug\MTDriver_FSDHook.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\G4rb3n\source\repos\MTDriver_FSDHook\Debug\MTDriver_FSDHook\mtdriver_fsdhook.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_FSDHook\Debug\MTDriver_FSDHook\mtdriver_fsdhook.cat
+  
