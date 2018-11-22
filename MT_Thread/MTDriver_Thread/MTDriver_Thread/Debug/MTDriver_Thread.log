@@ -1,0 +1,27 @@
+﻿  Building 'MTDriver_Thread' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\MTDriver_Thread.inf
+  Stamping [Version] section with DriverVer=11/22/2018,16.2.24.884
+  main.c
+c:\users\g4rb3n\source\repos\mtdriver_thread\mtdriver_thread\main.c(9): warning C4100: “pDriver”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_thread\mtdriver_thread\main.c(23): warning C4100: “pContext”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_thread\mtdriver_thread\main.c(47): warning C4100: “TargetEP”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_thread\mtdriver_thread\main.c(76): warning C4100: “RegPath”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_thread\mtdriver_thread\main.c(43): warning C4716: “TestThread”: 必须返回一个值
+  MTDriver_Thread.vcxproj -> C:\Users\G4rb3n\source\repos\MTDriver_Thread\Debug\MTDriver_Thread.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_Thread\Debug\MTDriver_Thread.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\G4rb3n\source\repos\MTDriver_Thread\Debug\MTDriver_Thread\mtdriver_thread.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_Thread\Debug\MTDriver_Thread\mtdriver_thread.cat
+  
