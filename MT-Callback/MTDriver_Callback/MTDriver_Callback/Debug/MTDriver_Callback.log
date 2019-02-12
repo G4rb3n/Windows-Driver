@@ -1,0 +1,26 @@
+﻿  Building 'MTDriver_Callback' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\MTDriver_Callback.inf
+  Stamping [Version] section with DriverVer=02/12/2019,16.47.29.66
+  main.c
+c:\users\g4rb3n\source\repos\mtdriver_callback\mtdriver_callback\main.c(4): warning C4100: “ParentID”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_callback\mtdriver_callback\main.c(26): warning C4100: “pDriver”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_callback\mtdriver_callback\main.c(28): warning C4189: “stats”: 局部变量已初始化但不引用
+c:\users\g4rb3n\source\repos\mtdriver_callback\mtdriver_callback\main.c(34): warning C4100: “RegPath”: 未引用的形参
+  MTDriver_Callback.vcxproj -> C:\Users\G4rb3n\source\repos\MTDriver_Callback\Debug\MTDriver_Callback.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_Callback\Debug\MTDriver_Callback.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\G4rb3n\source\repos\MTDriver_Callback\Debug\MTDriver_Callback\mtdriver_callback.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_Callback\Debug\MTDriver_Callback\mtdriver_callback.cat
+  
