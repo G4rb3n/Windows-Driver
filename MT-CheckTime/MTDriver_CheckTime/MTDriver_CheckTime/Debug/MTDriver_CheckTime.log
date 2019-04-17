@@ -1,0 +1,28 @@
+﻿  Building 'MTDriver_CheckTime' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\MTDriver_CheckTime.inf
+  Stamping [Version] section with DriverVer=04/17/2019,14.50.19.214
+  main.c
+c:\users\g4rb3n\source\repos\mtdriver_checktime\mtdriver_checktime\main.c(14): warning C4100: “dDriver”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_checktime\mtdriver_checktime\main.c(26): warning C4101: “tickcount”: 未引用的局部变量
+c:\users\g4rb3n\source\repos\mtdriver_checktime\mtdriver_checktime\main.c(109): warning C4113: “void (__stdcall *)()”和“PKSTART_ROUTINE”的参数列表不同
+c:\users\g4rb3n\source\repos\mtdriver_checktime\mtdriver_checktime\main.c(100): warning C4100: “RegPath”: 未引用的形参
+c:\users\g4rb3n\source\repos\mtdriver_checktime\mtdriver_checktime\main.c(53): warning C4702: 无法访问的代码
+c:\users\g4rb3n\source\repos\mtdriver_checktime\mtdriver_checktime\main.c(75): warning C4715: “CheckTimeLocal”: 不是所有的控件路径都返回值
+  MTDriver_CheckTime.vcxproj -> C:\Users\G4rb3n\source\repos\MTDriver_CheckTime\Debug\MTDriver_CheckTime.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_CheckTime\Debug\MTDriver_CheckTime.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\G4rb3n\source\repos\MTDriver_CheckTime\Debug\MTDriver_CheckTime\mtdriver_checktime.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\G4rb3n\source\repos\MTDriver_CheckTime\Debug\MTDriver_CheckTime\mtdriver_checktime.cat
+  
