@@ -3,7 +3,7 @@
 ```
 .
 |
-|-- MTDriver_CheckTime		// 回调函数驱动
+|-- MTDriver_CheckTime		// 本地时间校验驱动
 |            
 .
 ```
